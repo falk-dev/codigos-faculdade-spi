@@ -26,10 +26,10 @@ int main() {
             cout << "Voce esta na turma Babies!" << endl;
             break;
         case 6 ... 10:
-            cout << "Voce esta na turma Babies!" << endl;
+            cout << "Voce esta na turma Kids!" << endl;
             break;
         case 11 ... 15:
-            cout << "Voce esta na turma Babies!" << endl;
+            cout << "Voce esta na turma Teens!" << endl;
             break;
         default:
             cout << "Voce esta na turma Young!" << endl;
