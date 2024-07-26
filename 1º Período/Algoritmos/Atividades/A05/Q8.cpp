@@ -1,6 +1,8 @@
 /*
-    8) Faça um algorítimo que resolva uma equação do 2º grau, recebendo os valores de a, b e c.
-*/
+ *  8) Faça um algorítimo que resolva uma equação do 2º grau, recebendo os valores de a, b e c.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

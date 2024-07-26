@@ -1,13 +1,15 @@
 /*
-    7) Uma loja de departamento está oferecendo diferentes formas de pagamento, conforme as opções listadas a seguir.
-    Faça um algoritmo que leia o valor total de uma compra e calcule o valor do pagamento final de acordo com a opção escolhida.
-    Se a escolha for por pagamento parcelado, calcule também o valor da parcela. Ao final, apresente o valor total e valor das parcelas.
-
-    (a) pagamento a vista: conceder desconto de 5%.
-    (b) pagamento em 2 ou 3 parcelas: o valor não sofre alteração.
-    (c) pagamento em 4 ou 5 parcelas: acréscimo de 2%.
-    (d) pagamento entre 6 e 10 parcelas: acréscimo de 8%.
-*/
+ *  7) Uma loja de departamento está oferecendo diferentes formas de pagamento, conforme as opções listadas a seguir.
+ *  Faça um algoritmo que leia o valor total de uma compra e calcule o valor do pagamento final de acordo com a opção escolhida.
+ *  Se a escolha for por pagamento parcelado, calcule também o valor da parcela. Ao final, apresente o valor toatal e valor das parcelas.
+ *
+ *  (a) pagamento a vista: conceder desconto de 5%.
+ *  (b) pagamento em 2 ou 3 parcelas: o valor não sofre alteração.
+ *  (c) pagamento em 4 ou 5 parcelas: acréscimo de 2%.
+ *  (d) pagamento entre 6 e 10 parcelas: acréscimo de 8%.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

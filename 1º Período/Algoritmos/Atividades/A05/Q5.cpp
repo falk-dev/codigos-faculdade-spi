@@ -1,8 +1,9 @@
 /*
-    5) Faça um algoritmo que verifique se um número fornecido pelo usuário é 0, par ou ímpar.
-    Para isso, apresente uma mensagem contendo o número digitado e o resultado do teste.
-    (Obs: se o número for 0, não precisa informar se ele é par ou ímpar, apenas que ele é 0).
-*/
+ *  5) Faça um algoritmo que verifique se um número fornecido pelo usuário é 0, par ou ímpar. Para isso, apresente uma mensagem
+ *  contendo o número digitado e o resultado do teste. (Obs: se o número for 0, não precisa informar se ele é par ou ímpar, apenas que ele é 0).
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

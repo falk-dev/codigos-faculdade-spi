@@ -1,13 +1,17 @@
 /*
-    3) Faça um algoritmo que tenha como dado de entrada o dia da semana e retorne ao usuário a cor da camisa que ele deve vestir de acordo com a tabela abaixo:
-    segunda: branca
-    terça: verde
-    quarta: azul
-    quinta: amarela
-    sexta: vermelha
-    sábado: cinza
-    domingo: rosa
-*/
+ *  3) Faça um algoritmo que tenha como dado de entrada o dia da semana e retorne ao usuário a cor
+ *  da camisa que ele deve vestir de acordo com a tabela baixo:
+ *
+ *  segunda: branca
+ *  terça: verde
+ *  quarta: azul
+ *  quinta: amarela
+ *  sexta: vermelha
+ *  sábado: cinza
+ *  domingo: rosa
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

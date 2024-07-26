@@ -1,7 +1,9 @@
 /*
-    6) Elabore um algoritmo que receba um valor do usuário e verifique se ele é múltiplo de 3 ou múltiplo de 7 ou ambos.
-    Apresente uma mensagem informando o resultado do teste.
-*/
+ *  6) Elabore um algoritmo que receba um valor do usuário e verifique se ele é múltiplo de 3 ou múltiplo de 7 ou ambos.
+ *  Apresente uma mensagem informando o resultado do teste.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

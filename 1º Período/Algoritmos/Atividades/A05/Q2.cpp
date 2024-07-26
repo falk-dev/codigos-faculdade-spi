@@ -1,9 +1,11 @@
 /*
-    2) Faça um algoritmo que leia dois valores, a e b, e execute as seguintes operações:
-    (a) se a é igual b, apresente o quadrado de a.
-    (b) se a for maior que b, apresente a + b.
-    (c) se a for menor que b, apresente b - a.
-*/
+ *  2) Faça um algoritmo que leia dois valores, a e b, e execute as seguintes operações:
+ *  (a) se a é igual b, apresente o quadrado de a.
+ *  (b) se a for maior que b, apresente a + b.
+ *  (c) se a for menor que b, apresente b - a.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

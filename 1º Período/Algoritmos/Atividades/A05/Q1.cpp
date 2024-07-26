@@ -1,10 +1,11 @@
 /*
-    1) Faça um programa que recebe o nome, 4 notas e faltas de um aluno.
-    Para passar direto ele deve ter média maior ou igual a 7 e ter faltado a menos de 25% das aulas.
-    Caso ele não tenha alcançado a média para passar, deve fazer prova final, onde deve tirar nota maior ou igual a 10-média.
-
-    Se ele estiver reprovado por falta, não terá direito a fazer a final.
-*/
+ *  1) Faça um programa que recebe o nome, 4 notas e faltas de um aluno.
+ *  Para passar direto ele deve ter média maior ou igual a 7 e ter faltado a menos de 25% das aulas.
+ *  Caso ele não tenha alcançado a média para passar, deve fazer prova final, onde deve tirar nota maior ou igual a 10-média.
+ *  Se ele estiver reprovado por falta, não terá direito a fazer a final.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

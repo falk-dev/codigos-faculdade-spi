@@ -1,8 +1,14 @@
 /*
-    4) Uma empresa concederá um reajuste salarial de 14% no próximo mês se o salário for de até R$ 4000, se for acima desse valor o reajuste será de 10%.
-    Sua missão é elaborar um algoritmo que, a partir de dados inseridos pelo usuário, calcular o salário reajustado de um funcionário, exibindo, como resultado,
-    seu nome, o valor de seu salário atual e o valor do salário reajustado. (Obs: apenas o pseudocódigo é necessário)
-*/
+ *  4) Uma empresa concederá um reajuste salarial de 14% no próximo mês se o salário for de até R$ 4000,
+ *  se for acima desse valor o reajuste será de 10%.
+ *
+ *  Sua missão é elaborar um algoritmo que, a partir de dados inseridos pelo usuário, calcular o salário reajustado
+ *  de um funcionário, exibindo, como resultado, seu nome, o valor de seu salário atual e o valor do salário reajustado.
+ *
+ *  (Obs: apenas o pseudocódigo é necessário)
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 
