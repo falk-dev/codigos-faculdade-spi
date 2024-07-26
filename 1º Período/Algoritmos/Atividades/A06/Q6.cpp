@@ -1,6 +1,9 @@
 /*
-    6) Desenvolva um algoritmo que determine se um país é sulamericano ou não. Você pode utilizar códigos para representar cada país.
-*/
+ *  6) Desenvolva um algoritmo que determine se um país é sulamericano ou não.
+ *  Você pode utilizar códigos para representar cada país.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 
@@ -9,7 +12,7 @@ using namespace std;
 int main() {
     string pais;
     bool aux = false;
-    vector<string> paises { "Argentina", "Bolivia", "Brasil", "Chile", "Colombia", "Equador", "Guiana Francesa", "Paraguai", "Peru", "Suriname", "Uruguai", "Venezuela" };
+    vector<string> paises{"Argentina", "Bolivia", "Brasil", "Chile", "Colombia", "Equador", "Guiana Francesa", "Paraguai", "Peru", "Suriname", "Uruguai", "Venezuela"};
 
     cout << "Este programa informa se um pais eh sulamericano ou nao!" << endl;
 

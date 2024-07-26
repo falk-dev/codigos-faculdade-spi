@@ -1,6 +1,8 @@
 /*
-    1) Desenvolva um algoritmo que receba um valor em minutos e imprima o resultado em segundos e horas.
-*/
+ *  1) Desenvolva um algoritmo que receba um valor em minutos e imprima o resultado em segundos e horas.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

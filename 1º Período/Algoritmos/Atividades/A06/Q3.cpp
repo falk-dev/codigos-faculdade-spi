@@ -1,7 +1,9 @@
 /*
-    3) Desenvolva um algoritmo que converta, com base na cotação de 22 de maio de 2023,
-    o valor da moeda brasileira nos valores correspondentes da moeda norte-americana, britânica, chinesa e da União Européia.
-*/
+ *  3) Desenvolva um algoritmo que converta, com base na cotação de hoje, o valor da moeda brasileira nos valores correspondentes
+ *  da moeda norte-americana, britânica, chinesa e da União Europeia.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

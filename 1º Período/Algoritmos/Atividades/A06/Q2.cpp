@@ -1,6 +1,8 @@
 /*
-    2) Desenvolva um algoritmo que determine a área e o perímetro de um retângulo qualquer.
-*/
+ *  2) Desenvolva um algoritmo que determine a área e o perímetro de um retângulo qualquer.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

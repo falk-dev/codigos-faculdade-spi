@@ -1,6 +1,9 @@
 /*
-    4) Desenvolva um algoritmo que determine a quantidade de raízes de uma equação do segundo grau. O algoritmo também deve apresentar o valor de Delta.
-*/
+ *  4) Desenvolva um algoritmo que determine a quantidade de raízes de uma equação do segundo grau.
+ *  O algoritmo também deve apresentar o valor de Delta.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

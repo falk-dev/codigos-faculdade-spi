@@ -1,7 +1,10 @@
 /*
-    5) Um plano telefônico pré-pago oferta uso de 6000 minutos de ligação por um preço de R$ 70,00.
-    Para cada minuto excedente o cliente deverá pagar um total de R$ 0,13. Desenvolva um algoritmo que determine o valor final da fatura do cliente.
-*/
+ *  5) Um plano telefônico pré-pago oferta uso de 6000 minutos de ligação por um preço de R$ 70,00.
+ *  Para cada minuto excedente o cliente deverá pagar um total de R$ 0,13. Desenvolva um algoritmo que determine o
+ *  valor final da fatura do cliente.
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 

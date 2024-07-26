@@ -1,6 +1,9 @@
 /*
-    7) Desenvolva um algoritmo que determine o IMC (Índice de Massa Corporal) de uma pessoa e classifique-a de acordo com a Tabela 01 (utilize a estrutura SE-SENÃO):
-*/
+ *  7) Desenvolva um algoritmo que determine o IMC (Índice de Massa Corporal) de uma pessoa e classifique-a
+ *  de acordo com a Tabela 01 (utilize a estrutura SE-SENÃO).
+ *
+ *  Compile aqui: https://www.onlinegdb.com/online_c++_compiler
+ */
 
 #include <bits/stdc++.h>
 
